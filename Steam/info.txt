@@ -1,0 +1,12 @@
+{
+    "Name": "QoLMod",
+    "ID": "kingnullboy qolmod",
+    "Author": "KingNullboy",
+    "Description": "Small quality-of-life improvements.",
+    "ModVersion": 1,
+    "GameVersion": 2.053,
+    "Date": "15/11/2026",
+    "Dependencies": [],
+    "Disabled": 0,
+    "AllowSteamAchievs": 1
+}
